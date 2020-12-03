@@ -1,0 +1,6 @@
+#This is thrid
+test:lianzhan.c zhanyi.c
+	gcc lianzhan.c zhanyi.c -o test
+	rm test
+
+
