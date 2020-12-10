@@ -1,0 +1,6 @@
+#this is sample
+zhantest: zhan.c test.c
+	gcc zhan.c test.c -o test
+
+clean:
+	rm test
